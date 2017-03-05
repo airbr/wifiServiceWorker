@@ -25,7 +25,7 @@
  
 ---
 
-### Project Status: Offline is Online :ballot_box_with_check:
+### Project Status: Passes Lighthouse 200 Test :ballot_box_with_check: - [See Lighthouse Report](https://drive.google.com/file/d/1i4kGqD0xPtlSLXKf641mk9JQOSlmcKnZvMvBhwYOPe-VGnDQTJfbRjLg8erKVjxbOF8YN-jOzUYE8Qfo/view) 
 
 A project to meet the 'lighthouse audit test' of [a URL that responds with a 200 when offline](https://developers.google.com/web/tools/lighthouse/audits/http-200-when-offline) and also gives some kind of visual responsive cue to the user that that would seem as if they are in fact online.
 
