@@ -1,7 +1,7 @@
 ### Offline Demo instructions
 
 1. clone the repo
-2. run `http-server` or similar in the repo folder
+2. run `http-server` or similar in the public folder in the repo
 3. Visit localhost:8080 or whatever
 4. See regular content on page, service worker info in console
 5. kill `http-server`
